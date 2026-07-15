@@ -1,3 +1,1 @@
-print ('Hallo Wereld')
-print('Welkom in onze ijssalon')
-print('Test Online') 
+print('hallo wereld')
